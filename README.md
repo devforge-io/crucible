@@ -143,3 +143,9 @@ The defaults apply when there is no config file. `crucible init` writes a file w
 To use port 443, set `listen = "0.0.0.0:443"`. The service is allowed to bind ports below 1024.
 
 Set `RUST_LOG` (for example `RUST_LOG=debug`) to change the log level.
+
+## Licence
+
+Copyright (c) 2026 Devforge Pty Ltd. All rights reserved.
+
+Crucible is proprietary software: see [LICENSE](LICENSE). The OBS plugin ([devforge-io/crucible-obs](https://github.com/devforge-io/crucible-obs)) is also copyright Devforge Pty Ltd, licensed GPL-2.0-or-later.
